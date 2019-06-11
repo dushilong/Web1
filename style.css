@@ -1,0 +1,252 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+a{
+	text-decoration: none;
+}
+li{
+	list-style: none;
+}
+input{
+	outline: none;
+}
+.head{
+	height: 30px;
+	background-color: #f4f4f4;
+	line-height: 30px;
+	font-size: 15px;
+	color: black;
+}
+.head1{
+	position: absolute;
+	left: 180px;
+}
+.head2{
+	position: absolute;
+	right: 180px;
+}
+.head img{
+	position: absolute;
+	top: 7px;
+}
+.head2 a{
+	color: black;
+}
+.sea{
+	height: 115px;
+	background: url('imgs/logo.png') no-repeat 180px;
+}
+.sea input{
+	width: 405px;
+	height: 40px;
+	position: relative;
+	top: 40px;
+	left: 560px;
+	border: 2px solid #f83838;
+	color: #c0c0c0;
+}
+.sea1{
+	border: 2px solid #f83838;
+	width: 95px;
+	position: absolute;
+	top: 70px;
+	left: 968px;
+	background-color: #f83838;
+	text-align: center;
+	line-height: 40px;
+}
+.sea1 a{
+	color: white;
+}
+.sea2{
+	width: 150px;
+	height: 40px;
+	position: absolute;
+	top: 70px;
+	left: 1220px;
+	font-size: 15px;
+	line-height: 40px;
+	background: url('imgs/gouwuche.png') no-repeat 25px;
+	background-color: #f4f4f4;
+}
+.sea3{
+	position: relative;
+	left: 45px;
+}
+.sea2 a{
+	color: #f83838;
+}
+.nav{
+	height: 45px;
+	border-bottom: 2px solid #f83838;
+	line-height: 45px;
+	font-size: 15px;
+}
+.nav a{
+	color: black;
+}
+.nav1{
+	position: relative;
+	left: 140px;
+}
+.nav li{
+	margin: 0px 20px;
+	position: relative;
+	top: 5px;
+	width: 90px;
+	height: 30px;
+	display: inline-block;
+	text-align: center;
+	line-height: 30px;
+}
+.nav a:hover{
+	color: white;
+}
+.nav li:hover{
+	color: white;
+	background-color: #f83838;
+	border-radius: 5px;
+}
+.fl{
+	height: 650px;
+	background-color: #fbfbfb;
+	padding-left: 180px;
+}
+.fl1{
+	height: 65px;
+	line-height: 65px;
+	font-size: 15px;
+}
+.fl2{
+	float: left;
+	height: 45px;
+	width: 215px;
+	background: url('imgs/fenlei.png') no-repeat 30px;
+	background-color: white;
+	line-height: 45px;
+	text-align: center;
+	margin-right: 
+}
+.fl3{
+	position: absolute;
+	top: 312px;
+	left: 180px;
+	height: 510px;
+	width: 140px;
+	background-color: white;
+	display: inline-block;
+	padding-left: 75px;
+}
+.fl3 a{
+	color: black;
+}
+.fl3 li{
+	height: 50px;
+	line-height: 50px;
+}
+.fl3 a:hover{
+	color: #f83838;
+}
+.fl4{
+	position: absolute;
+	left: 405px;
+	width: 975px;
+	height: 565px;
+	background-color: white;
+}
+.fl4 li{
+	width: 220px;
+	height: 252px;
+	float: left;
+	margin: 18px 0px 0px 18px;
+	border: 1px solid #dbdbdb;
+	text-align: center;
+}
+.pepper img{
+	position: relative;
+	top: 25px;
+}
+.baixiang img{
+	position: relative;
+	top: 25px;
+}
+.wine img{
+	position: relative;
+	top: 12px;
+}
+.songzi img{
+	position: relative;
+	top: 25px;
+}
+.wordtop{
+	position: absolute;
+	top: 215px;
+	width: 220px;
+}
+.wordbot{
+	position: absolute;
+	top: 485px;
+	width: 220px;
+}
+.word1{
+	font-size: 16px;
+	color: #b5b5b5;
+}
+.word2{
+	position: relative;
+	top: 10px;
+	font-size: 15px;
+}
+.bot{
+	height: 250px;
+	background-color: #2e2e2e;
+}
+.top{
+	position: absolute;
+	left: 190px;
+	display: inline-block;
+	font-size: 16px;
+	color: white;
+}
+.top li{
+	width: 250px;
+	height: 20px;
+	display: inline-block;
+	position: relative;
+	top: 20px;
+}
+.top1{
+	font-size: 14px;
+}
+.top1 a{
+	color: white;
+}
+.top1 li{
+	height: 30px;
+}
+.bot1{
+	position: absolute;
+	top: 995px;
+	left: 180px;
+	height: 80px;
+	width: 1200px;
+	border-top: 1px solid #454545;
+	text-align: center;
+	padding-top: 20px;
+	color: #8c8c8c;
+}
+.bot1 li{
+	display: inline-block;
+	padding-left: 8px;
+	padding-right: 8px;
+	font-size: 14px;
+}
+.bot1 a{
+	color: #8c8c8c;
+}
+.bot1 p{
+	position: relative;
+	top: 20px;
+	font-size: 14px;
+}
